@@ -1,7 +1,9 @@
-Scripts and notebooks used to (i) track and derive statistics of deep convective clouds in the ICON km-scale climate model, (ii) perform inital results analysis, and (iii) produce the figures presented in the manuscript "Convective controls on anvil cloud evolution in the ICON km-scale global climate model" by Mathilde Ritman, William K Jones and Philip Stier, which is to be submitted to Atmospheric Chemistry and Physics (ACP).
+Scripts and notebooks used to conduct the cloud tracking and analyses presented in the manuscript "Convective controls on anvil cloud evolution in the ICON km-scale global climate model" by Mathilde Ritman, William K Jones and Philip Stier.
 
-(i) can be found in the folder 'global3d_track'
+Please note that you can find a maintained version of the tracking and statistics code at: https://github.com/mathilde-ritman/global3d_track.
 
-(ii) can be found in the folder 'data_analysis'
+Contents:
 
-(iii) can be found in the folder 'plotting'
+(i) 'global3d_track': perform tracking and derive statistics;
+(ii) 'data_analysis': perform initial analysis; and
+(iii) 'plotting': produce the figures.
