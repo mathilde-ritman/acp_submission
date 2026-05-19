@@ -5,5 +5,7 @@ Please note that you can find a maintained version of the tracking and statistic
 Contents:
 
 (i) 'global3d_track': perform tracking and derive statistics;
+
 (ii) 'data_analysis': perform initial analysis; and
+
 (iii) 'plotting': produce the figures.
